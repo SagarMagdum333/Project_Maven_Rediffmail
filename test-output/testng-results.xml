@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-27T14:24:30 IST" name="Default suite" finished-at="2022-12-27T14:27:38 IST" duration-ms="188652">
+    <groups>
+    </groups>
+    <test started-at="2022-12-27T14:24:30 IST" name="Default test" finished-at="2022-12-27T14:27:38 IST" duration-ms="188652">
+      <class name="TestCases.TC_01_CreateAccount">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestCases.TC_01_CreateAccount@1ab3a8c8]" started-at="2022-12-27T14:24:30 IST" name="beforeClass" finished-at="2022-12-27T14:24:52 IST" duration-ms="22631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Varify_Password_Field_Error01()[pri:0, instance:TestCases.TC_01_CreateAccount@1ab3a8c8]" started-at="2022-12-27T14:24:52 IST" name="Varify_Password_Field_Error01" finished-at="2022-12-27T14:25:27 IST" duration-ms="35066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Varify_Password_Field_Error01 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestCases.TC_01_CreateAccount@1ab3a8c8]" started-at="2022-12-27T14:25:27 IST" name="afterClass" finished-at="2022-12-27T14:25:28 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestCases.TC_01_CreateAccount@1ab3a8c8]" started-at="2022-12-27T14:25:28 IST" name="beforeClass" finished-at="2022-12-27T14:25:41 IST" duration-ms="13400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Varify_Password_Field_Error02()[pri:0, instance:TestCases.TC_01_CreateAccount@1ab3a8c8]" started-at="2022-12-27T14:25:41 IST" name="Varify_Password_Field_Error02" finished-at="2022-12-27T14:27:38 IST" duration-ms="116411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Varify_Password_Field_Error02 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestCases.TC_01_CreateAccount@1ab3a8c8]" started-at="2022-12-27T14:27:38 IST" name="afterClass" finished-at="2022-12-27T14:27:38 IST" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TC_01_CreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
